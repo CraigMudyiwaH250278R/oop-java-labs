@@ -1,0 +1,4 @@
+Object-oriented programming organises software around objects.
+Each object has state and behaviour.
+
+Java is a popular language for learning these ideas.

@@ -1,0 +1,16 @@
+# Compiled output and generated artefacts
+out/
+library-data/
+output/*
+!output/.gitkeep
+sources.txt
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
